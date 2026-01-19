@@ -1,5 +1,5 @@
 # cybersecurity-project1
-Beginner cybersecurity learning projects - Password Checker
+cybersecurity project - Password Checker
 # Password Strength Checker 🔐
 
 ## Description
