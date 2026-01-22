@@ -1,4 +1,4 @@
-# cybersecurity-project1
+# cybersecurity- Portfolio
 cybersecurity project - Password Checker
 # Password Strength Checker 🔐
 
