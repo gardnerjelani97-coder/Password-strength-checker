@@ -104,7 +104,6 @@ Password-strength-checker/
 - [x] GitHub Actions workflow to run tests on every push
 - [x] Command-line arguments with `argparse`
 - [ ] Strength score (weak / medium / strong) based on length and entropy
-- [ ] Check a whole file of passwords at once
 
 ## What I Learned
 
